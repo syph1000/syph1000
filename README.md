@@ -34,9 +34,7 @@
 
 ---
 
-<a href="https://github.com/syph1000/github-readme-stats">
-    <img align="leftr" src="(https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&theme=merko)">
-</a>
+<img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&theme=merko">
 
 <br />
 <br />
@@ -50,9 +48,7 @@
 
 ---
 
-<a href="https://github.com/syph1000/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000" />
-</a>
+<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000)](https://github.com/syph1000/github-readme-stats)">
 
 <!--me-->
 [syph1000]: https://github.com/syph1000
