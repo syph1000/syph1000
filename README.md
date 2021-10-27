@@ -14,7 +14,7 @@
 [<img align="left" alt="Leo Fielstette | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LFielstette | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="leo_fst_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
+[<img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
 
 <br />
 
