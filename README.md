@@ -42,7 +42,7 @@
 
 <!--about me-->
 [python]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
-[secret_project]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+[project]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 
 <!--languages and tools-->
 [vscode download]: https://code.visualstudio.com/download
