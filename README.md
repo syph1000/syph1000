@@ -48,14 +48,14 @@
 
 ---
 
-<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000)](https://github.com/syph1000/github-readme-stats)">
+<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000&theme=merko)](https://github.com/syph1000/github-readme-stats)">
 
 <!--me-->
 [syph1000]: https://github.com/syph1000
 
 <!--about me-->
 [python]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
-[project]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+[project]: https://github.com/startup-LL/website_code.git
 
 <!--languages and tools-->
 [vscode download]: https://code.visualstudio.com/download
