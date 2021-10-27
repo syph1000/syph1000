@@ -44,10 +44,11 @@
 <br />
 <br />
 <br />
+<br />
 
 ---
 
-<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000)](https://github.com/syph1000/github-readme-stats">
+<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000)](https://github.com/syph1000/github-readme-stats)">
 
 <!--me-->
 [syph1000]: https://github.com/syph1000
