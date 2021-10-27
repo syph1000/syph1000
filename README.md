@@ -73,4 +73,4 @@
 [twitter]: https://twitter.com/LFielstette
 [youtube]: https://www.youtube.com/channel/UCvf9Y1JmhE8BZBSQoeNJBMA
 [instagram]: https://www.instagram.com/leo_fst_/
-[twitch]: https://www.twitch.tv/leo_fielstette
+[twitch]: https://www.twitch.tv/
