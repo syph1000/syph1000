@@ -29,14 +29,7 @@
 <br />
 <br />
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[syph1000's GitHub stats]
 
 [syph1000]: https://github.com/syph1000
 
@@ -57,3 +50,6 @@
 [twitter]: https://twitter.com/LFielstette
 [youtube]: https://www.youtube.com/channel/UCvf9Y1JmhE8BZBSQoeNJBMA
 [instagram]: https://www.instagram.com/leo_fst_/
+
+<!--stats-->
+[syph1000's GitHub stats]: (https://github-readme-stats.vercel.app/api?syph1000=anuraghazra&hide=contribs,prs)
