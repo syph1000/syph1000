@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: finish my secret [project]
 
+---
+
 ### Socials:
 
 [<img align="left" alt="Leo Fielstette | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,6 +16,8 @@
 [<img align="left" alt="leo_fst_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -27,17 +31,31 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
+
+---
+
+<img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&theme=merko">
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 ---
 
-<img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&hide_border=true">
+<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000&theme=merko)](https://github.com/syph1000/github-readme-stats)">
 
+<!--me-->
 [syph1000]: https://github.com/syph1000
 
 <!--about me-->
 [python]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
-[project]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+[project]: https://github.com/startup-LL/website_code.git
 
 <!--languages and tools-->
 [vscode download]: https://code.visualstudio.com/download
