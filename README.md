@@ -14,6 +14,7 @@
 [<img align="left" alt="Leo Fielstette | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LFielstette | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="leo_fst_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -26,6 +27,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css wikipedia]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass wikipedia]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript wikipedia]
+[<img align="left" alt="PYthon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python wikipedia]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git download]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][syph1000]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
@@ -48,14 +50,14 @@
 
 ---
 
-<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+<img align="left" alt="syph100's individual languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph1000)](https://github.com/syph1000/github-readme-stats)">
 
 <!--me-->
 [syph1000]: https://github.com/syph1000
 
 <!--about me-->
-[python]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
 [project]: https://github.com/startup-LL/website_code.git
+[python]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
 
 <!--languages and tools-->
 [vscode download]: https://code.visualstudio.com/download
@@ -63,6 +65,7 @@
 [css wikipedia]: https://de.wikipedia.org/wiki/Cascading_Style_Sheets
 [sass wikipedia]: https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache)
 [javascript wikipedia]: https://de.wikipedia.org/wiki/JavaScript#:~:text=JavaScript%20(kurz%20JS)%20ist%20eine,HTML%20und%20CSS%20zu%20erweitern.
+[python wikipedia]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
 [git download]: https://git-scm.com/downloads
 [terminal]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 
@@ -70,3 +73,4 @@
 [twitter]: https://twitter.com/LFielstette
 [youtube]: https://www.youtube.com/channel/UCvf9Y1JmhE8BZBSQoeNJBMA
 [instagram]: https://www.instagram.com/leo_fst_/
+[twitch]: https://www.twitch.tv/leo_fielstette
