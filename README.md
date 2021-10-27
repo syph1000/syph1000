@@ -37,6 +37,10 @@
 <img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&theme=merko">
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
 ---
 
