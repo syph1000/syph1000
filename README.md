@@ -29,6 +29,8 @@
 <br />
 <br />
 
+---
+
 <img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&hide_border=true">
 
 [syph1000]: https://github.com/syph1000
