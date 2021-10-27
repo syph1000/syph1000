@@ -8,7 +8,6 @@
 - 🥅 2021 Goals: finish my secret [project]
 
 <br />
-<br />
 
 ---
 
@@ -18,7 +17,6 @@
 [<img align="left" alt="LFielstette | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="leo_fst_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 <br />
 
 ---
