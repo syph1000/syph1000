@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[syph1000's GitHub stats]
+<img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=syph1000&show_icons=true&hide_border=true">
 
 [syph1000]: https://github.com/syph1000
 
@@ -50,6 +50,3 @@
 [twitter]: https://twitter.com/LFielstette
 [youtube]: https://www.youtube.com/channel/UCvf9Y1JmhE8BZBSQoeNJBMA
 [instagram]: https://www.instagram.com/leo_fst_/
-
-<!--stats-->
-[syph1000's GitHub stats]: (https://github-readme-stats.vercel.app/api?syph1000=anuraghazra&hide=contribs,prs)
