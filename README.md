@@ -65,6 +65,7 @@
 [sass wikipedia]: https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache)
 [javascript wikipedia]: https://de.wikipedia.org/wiki/JavaScript#:~:text=JavaScript%20(kurz%20JS)%20ist%20eine,HTML%20und%20CSS%20zu%20erweitern.
 [python wikipedia]: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
+[git download]: https://git-scm.com/downloads
 [terminal]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 
 <!--socials-->
