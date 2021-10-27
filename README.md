@@ -7,6 +7,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: finish my secret [project]
 
+<br />
+<br />
+
+---
+
 ### Socials:
 
 [<img align="left" alt="Leo Fielstette | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,6 +19,9 @@
 [<img align="left" alt="leo_fst_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools:
 
