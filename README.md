@@ -3,9 +3,9 @@
 ## I'm a Student and Developer!!
 
 - 🔭 I'm currently working on a secret project 🤫
-- 🌱 I’m currently learning python[python]
+- 🌱 I’m currently learning [python]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: finish my secret project[secret_project]
+- 🥅 2021 Goals: finish my secret [project]
 
 ### Socials:
 
