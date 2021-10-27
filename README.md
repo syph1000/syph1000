@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<img align="left" alt="syph1000's Github stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
 
 [syph1000]: https://github.com/syph1000
 
