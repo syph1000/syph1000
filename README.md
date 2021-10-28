@@ -50,9 +50,7 @@
 
 ---
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" alt="syph1000's Languages"(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--me-->
 [syph1000]: https://github.com/syph1000
